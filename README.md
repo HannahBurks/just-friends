@@ -1,7 +1,14 @@
+
+JUST FRIENDS INTRODUCTION 
+
+For this app you will need to run npm install to install all dependencies. 
+As this is a demo, you will also need to set up an agora account and create a project in order to configure the video call element of this app. You will need to copy the app Id, generate a temporary token and copy the token and also the channelName, and paste the information into settings.js. You should then be able to run this with npm start. 
+
+Alterntively, you can instead watch the following video which showcases this app: 
+https://drive.google.com/file/d/1TLIO2wMrjXo7pHe3AII-OkihhHwEiFv6/view?usp=sharing
+
+
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
